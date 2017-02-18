@@ -27,3 +27,6 @@ div p {
 .coworker {
 	border: 2px dashed red;
 }
+#best_friend {
+	border: 4px solid #00C957;
+}
