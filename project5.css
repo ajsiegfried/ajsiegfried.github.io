@@ -17,21 +17,13 @@ div p {
 }
 
 .friend {
-	border: 2px dashed green;
+	border: 2px dashed violet;
 }
 
 .family {
 	border: 2px dashed blue;
 }
 
-.enemy {
+.coworker {
 	border: 2px dashed red;
-}
-
-#best_friend {
-	border: 4px solid #00C957;
-}
-
-#archnemesis {
-	border: 4px solid #cc0000;
 }
